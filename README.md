@@ -62,6 +62,7 @@
 
 - [通义灵码](https://tongyi.aliyun.com/lingma) - 阿里 AI 编程助手
 - [腾讯 CodeBuddy](https://copilot.tencent.com) - 腾讯 AI 编程助手
+- [agent-qa](https://vostride.com) - vostride 的网页与移动端 AI 测试工具，提供 memidex 持久记忆、经验证的自我改进、MCP 和可复查证据；模型费用另计。
 
 ## AI 资讯
 
