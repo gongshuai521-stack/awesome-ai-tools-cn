@@ -32,6 +32,7 @@
 ## 长文档处理
 
 - [Kimi](https://kimi.moonshot.cn) - 长文本处理强项，支持几十页 PDF 问答与总结
+- [证伪AI（DisconfirmAI）](https://disconfirmai.com/zh) - 面向 AI 时代的投资研究与阅读平台，下结论前先找可能推翻观点的反面证据
 
 ## 图像生成
 
